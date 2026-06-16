@@ -1,4 +1,5 @@
 -- データベース webdb を作成する
+DROP DATABASE webdb;
 CREATE DATABASE webdb;
 USE webdb;
 
