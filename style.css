@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 4px;
+}
+
+th {
+    border: 2px solid white;
+    text-align: center;
+    background-color: #00a497; /* 碧色（青緑系）の指定 */
+    color: #ffffff;            /* 見やすくするために文字色を白に */
+}
+
+td {
+    border: 2px solid white;
+    text-align: center;
+    text-align: left;
+    background-color: #b0f0ea; /* 碧色（青緑系）の指定 */
+}
