@@ -1,3 +1,7 @@
+-- データベース webdb を作成する
+CREATE DATABASE webdb;
+USE webdb;
+
 --  テーブル w_category
 CREATE TABLE IF NOT EXISTS `w_category` (
   `category_id` char(2) NOT NULL,
