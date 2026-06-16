@@ -1,4 +1,4 @@
-w_category--  テーブル w_category
+--  テーブル w_category
 CREATE TABLE IF NOT EXISTS `w_category` (
   `category_id` char(2) NOT NULL,
   `category_name` varchar(30) NOT NULL,
